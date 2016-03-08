@@ -3,5 +3,5 @@ Anki flashcards for the SCE in Palliative care (2015)
 Currently in .apkg format, with media
 
 TODO:
-- .csv format
-- .txt format
+- .csv format - DONE
+- .txt format - DONE
